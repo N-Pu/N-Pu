@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Harry Grigoryan</h1>
 <h3 align="center">A passionate android developer from Armenia</h3>
 
-<img align= "right" alt="Coding" width="350" src=https://cdn.discordapp.com/attachments/760106198900146176/1035607301530329118/bfv.gif>
+<img align= "right" alt="Coding" width="162" src=https://thumbs.gfycat.com/BitesizedPalatableAztecant-max-1mb.gif>
+<img align= "right" alt="Coding" width="150" src=https://res.cloudinary.com/practicaldev/image/fetch/s--E_sJqrt5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/okar893ukpf0swoto1y7.gif>
+<img align= "right" alt="Coding" width="150" src=https://raw.githubusercontent.com/florent37/KotlinPleaseAnimate/master/media/sample.gif>
+<img align= "right" alt="Coding" width="150" src=https://raw.githubusercontent.com/gauravk95/mvp-android-template/master/sample.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pu&label=Profile%20views&color=3ddb84&style=flat-square" alt="n-pu" /> </p>
 
