@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harry Grigoryan</h1>
 <h3 align="center">A passionate android developer from Armenia</h3>
 
+<img align= "right" alt="Coding" width="400" src=https://thumbs.gfycat.com/ThankfulRigidDobermanpinscher-size_restricted.gif>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pu&label=Profile%20views&color=0e75b6&style=flat" alt="n-pu" /> </p>
 
 - 🔭 I’m currently working on [Git-mobile app](https://github.com/N-Pu/GithubTestApp)
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-pu&show_icons=true&locale=en" alt="n-pu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-pu&" alt="n-pu" /></p>
+
