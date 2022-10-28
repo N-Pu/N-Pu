@@ -1,11 +1,11 @@
-<img align= "right" alt="Coding" src=https://global-uploads.webflow.com/5dcc26d1cb881d7a98f0a292/621cd8cab7c447c3b05a5157_Ako%20na%20Vy%CC%81voj%20Android%20aplika%CC%81cii%CC%81-%20Tipy%20a%20na%CC%81vody%20pre%20developerov.jpg>
+<img align= "right" alt="Coding" src=https://cdn.discordapp.com/attachments/760106198900146176/1035609641503178802/git.gif>
 
 <h1 align="center">Hi 👋, I'm Harry Grigoryan</h1>
 <h3 align="center">A passionate android developer from Armenia</h3>
 
-<img align= "right" alt="Coding" width="400" src=https://thumbs.gfycat.com/ThankfulRigidDobermanpinscher-size_restricted.gif>
+<img align= "right" alt="Coding" width="350" src=https://cdn.discordapp.com/attachments/760106198900146176/1035607301530329118/bfv.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pu&label=Profile%20views&color=0e75b6&style=flat" alt="n-pu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pu&label=Profile%20views&color=3ddb84&style=flat-square" alt="n-pu" /> </p>
 
 - 🔭 I’m currently working on [Git-mobile app](https://github.com/N-Pu/GithubTestApp)
 
@@ -24,9 +24,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-pu&show_icons=true&locale=en&layout=compact" alt="n-pu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-pu&show_icons=true&theme=dark&locale=en&layout=compact" alt="n-pu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-pu&show_icons=true&locale=en" alt="n-pu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-pu&show_icons=true&theme=dark&locale=en" alt="n-pu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-pu&" alt="n-pu" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-pu&theme=dark" alt="n-pu" /></p>
