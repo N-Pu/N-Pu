@@ -1,4 +1,4 @@
-<img align= "right" alt="Coding" src=https://cdn.discordapp.com/attachments/760106198900146176/1035609641503178802/git.gif>
+<img align= "right" alt="Coding" src=https://cdn.discordapp.com/attachments/760106198900146176/1035614646817783888/gitt.gif>
 
 <h1 align="center">Hi 👋, I'm Harry Grigoryan</h1>
 <h3 align="center">A passionate android developer from Armenia</h3>
