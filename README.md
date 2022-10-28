@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Git-mobile app](https://github.com/N-Pu/GithubTestApp)
 
-- 🌱 I’m currently learning **Koin,Room**
+- 🌱 I’m currently learning **Koin, Room**
 
 - 💬 Ask me about **Android, Kotlin**
 
