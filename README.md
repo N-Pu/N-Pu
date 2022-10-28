@@ -1,4 +1,4 @@
-<img align= "right" alt="Coding" width="400" src=https://global-uploads.webflow.com/5dcc26d1cb881d7a98f0a292/621cd8cab7c447c3b05a5157_Ako%20na%20Vy%CC%81voj%20Android%20aplika%CC%81cii%CC%81-%20Tipy%20a%20na%CC%81vody%20pre%20developerov.jpg>
+<img align= "right" alt="Coding" src=https://global-uploads.webflow.com/5dcc26d1cb881d7a98f0a292/621cd8cab7c447c3b05a5157_Ako%20na%20Vy%CC%81voj%20Android%20aplika%CC%81cii%CC%81-%20Tipy%20a%20na%CC%81vody%20pre%20developerov.jpg>
 
 <h1 align="center">Hi 👋, I'm Harry Grigoryan</h1>
 <h3 align="center">A passionate android developer from Armenia</h3>
